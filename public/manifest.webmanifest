@@ -1,0 +1,9 @@
+{
+  "name": "Cobrança Fácil",
+  "short_name": "Cobrança Fácil",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f8f5",
+  "theme_color": "#12845a",
+  "description": "Controle de clientes e cobranças."
+}
